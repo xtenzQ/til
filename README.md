@@ -7,7 +7,7 @@ This repo is a collection of write-ups on things I learnt today.
 <hr>
 
 ### Categories
-- [spring](https://github.com/xtenzQ/TIL/tree/main/spring)
+- [Spring](https://github.com/xtenzQ/TIL/tree/main/spring)
 
 <hr>
 
