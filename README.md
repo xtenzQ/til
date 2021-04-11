@@ -14,3 +14,4 @@ This repo is a collection of write-ups on things I learnt today.
 ### Spring
 - [Why Spring?](https://github.com/xtenzQ/TIL/blob/main/spring/why-spring.md)
 - [Spring IoC and DI](https://github.com/xtenzQ/TIL/blob/main/spring/spring-ioc-di.md)
+- [Spring Bean Lifecycle](https://github.com/xtenzQ/TIL/blob/main/spring/spring-lifecycle.md)
