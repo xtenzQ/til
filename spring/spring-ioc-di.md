@@ -22,4 +22,4 @@ Spring development process constsis of:
 
 **Dependency injection (DI)** - we're basically outsourcing the construction and injection of your object to external entity (Object Factory).
 
-Two most common injections are: constructor injections and setter injection.
+Two most common injections are: constructor injection and setter injection.
