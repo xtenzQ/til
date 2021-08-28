@@ -7,11 +7,14 @@ This repo is a collection of write-ups on things I learnt today.
 <hr>
 
 ### Categories
-- [Spring](https://github.com/xtenzQ/TIL/tree/main/spring)
+- [Spring](spring)
 
 <hr>
 
 ### Spring
-- [Why Spring?](https://github.com/xtenzQ/TIL/blob/main/spring/why-spring.md)
-- [Spring IoC and DI](https://github.com/xtenzQ/TIL/blob/main/spring/spring-ioc-di.md)
-- [Spring Bean Lifecycle](https://github.com/xtenzQ/TIL/blob/main/spring/spring-lifecycle.md)
+- [Why Spring?](spring/why-spring.md)
+- [Spring IoC and DI](spring/spring-ioc-di.md)
+- [Spring Bean Lifecycle](spring/spring-lifecycle.md)
+
+### Java
+- [Interface Based Programming](java/interface-based-programming.md)
