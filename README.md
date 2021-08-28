@@ -7,9 +7,14 @@ This repo is a collection of write-ups on things I learnt today.
 <hr>
 
 ### Categories
+- [Algorithm](algorithm)
 - [Spring](spring)
+- [Java](java)
 
 <hr>
+
+### Algorithm
+- [Algorithm Categories](algorithm/algorithm-categories.md)
 
 ### Spring
 - [Why Spring?](spring/why-spring.md)
