@@ -10,6 +10,7 @@ This repo is a collection of write-ups on things I learnt today.
 - [Algorithm](algorithm)
 - [Spring](spring)
 - [Java](java)
+- [FileNet](filenet)
 
 <hr>
 
@@ -27,3 +28,6 @@ This repo is a collection of write-ups on things I learnt today.
 - [Interface Based Programming](java/interface-based-programming.md)
 - [Difference between `List<E>` and `Set<E>`](java/set-vs-list.md)
 - [Why do we override `compareTo()`?](java/compareto-override.md)
+
+### FileNet
+- [P8 Architecture](filenet/p8-arch.md)
