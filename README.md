@@ -18,9 +18,12 @@ This repo is a collection of write-ups on things I learnt today.
 
 ### Spring
 - [Why Spring?](spring/why-spring.md)
-- [Spring IoC and DI](spring/spring-ioc-di.md)
 - [Spring Bean Lifecycle](spring/spring-lifecycle.md)
+- [`@NotNull` with primitive types](spring/@notnull-with-primitive-types.md)
+- [Resource Bundle not Found](spring/resource-bundle-not-found.md)
+- [Spring IoC and DI](spring/spring-ioc-di.md)
 
 ### Java
 - [Interface Based Programming](java/interface-based-programming.md)
-- [Difference between List and Set](java/set-vs-list.md)
+- [Difference between `List<E>` and `Set<E>`](java/set-vs-list.md)
+- [Why do we override `compareTo()`?](java/compareto-override.md)
