@@ -23,3 +23,4 @@ This repo is a collection of write-ups on things I learnt today.
 
 ### Java
 - [Interface Based Programming](java/interface-based-programming.md)
+- [Difference between List and Set](java/set-vs-list.md)
