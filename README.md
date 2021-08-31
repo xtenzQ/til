@@ -10,6 +10,7 @@ This repo is a collection of write-ups on things I learnt today.
 - [Algorithm](algorithm)
 - [Spring](spring)
 - [Java](java)
+- [Java EE](java-ee)
 - [FileNet](filenet)
 
 <hr>
@@ -29,6 +30,9 @@ This repo is a collection of write-ups on things I learnt today.
 - [Difference between `List<E>` and `Set<E>`](java/set-vs-list.md)
 - [Why do we override `compareTo()`?](java/compareto-override.md)
 - [Interface vs. Abstract Class](java/interface-vs-abstract-class.md)
+
+### Java EE
+- [Enterprise Java Beans](java-ee/ejb.md)
 
 ### FileNet
 - [P8 Architecture](filenet/p8-arch.md)
