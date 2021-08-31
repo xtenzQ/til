@@ -32,3 +32,5 @@ This repo is a collection of write-ups on things I learnt today.
 
 ### FileNet
 - [P8 Architecture](filenet/p8-arch.md)
+- [Content Engine](filenet/content-engine.md)
+- [Process Engine](filenet/process-engine.md)
