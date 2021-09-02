@@ -30,6 +30,7 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Difference between `List<E>` and `Set<E>`](java/set-vs-list.md)
 - [Why do we override `compareTo()`?](java/compareto-override.md)
 - [Interface vs. Abstract Class](java/interface-vs-abstract-class.md)
+- [Java Architecture](java/architecture.md)
 
 ### Java EE
 - [Enterprise Java Beans](java-ee/ejb.md)
