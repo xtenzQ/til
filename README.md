@@ -10,6 +10,7 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Algorithm](algorithm)
 - [Spring](spring)
 - [Java](java)
+  - [JVM](java/jvm)  
 - [Java EE](java-ee)
 - [FileNet](filenet)
 
@@ -31,6 +32,9 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Why do we override `compareTo()`?](java/compareto-override.md)
 - [Interface vs. Abstract Class](java/interface-vs-abstract-class.md)
 - [Java Architecture](java/architecture.md)
+
+### JVM
+- [JVM](java/jvm/jvm.md)
 
 ### Java EE
 - [Enterprise Java Beans](java-ee/ejb.md)
