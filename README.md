@@ -38,14 +38,15 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 
 ### JVM
 - [JVM](jvm/jvm.md)
+- [Why Virtual?](jvm/why-virtual.md)
+- [JVM Architecture](jvm/jvm-architecture.md)
+- [JVM lifetime](jvm/jvm-lifetime.md)
 - [JVM Sandbox](jvm/jvm-sandbox.md)
 - [Class Loader](jvm/class-loader.md)
 - [Is Java API Platform Independent?](jvm/is-java-api-platform-independent.md)
 - [JVM Byte Order](jvm/jvm-byte-order.md)
 - [Namespace](jvm/namespace.md)
 - [Native Methods](jvm/native-methods.md)
-- [Why Virtual?](jvm/why-virtual.md)
-- [JVM lifetime](jvm/jvm-lifetime.md)
 
 ### FileNet
 - [P8 Architecture](filenet/p8-arch.md)
