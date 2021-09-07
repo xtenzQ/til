@@ -10,8 +10,8 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Algorithm](algorithm)
 - [Spring](spring)
 - [Java](java)
-- [JVM](jvm)  
 - [Java EE](java-ee)
+- [JVM](jvm)  
 - [FileNet](filenet)
 
 <hr>
@@ -38,6 +38,7 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 
 ### JVM
 - [JVM](jvm/jvm.md)
+- [JVM Sandbox](jvm/jvm-sandbox.md)
 - [Class Loader](jvm/class-loader.md)
 - [Is Java API Platform Independent?](jvm/is-java-api-platform-independent.md)
 - [JVM Byte Order](jvm/jvm-byte-order.md)
