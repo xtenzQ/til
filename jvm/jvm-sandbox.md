@@ -15,7 +15,7 @@ Sandbox components:
 - security manager (customizable);
 - Java API.
 
-Customization allows a user to create a sutomized security policy for a Java application.
+Customization allows a user to create a сutomized security policy for a Java application.
 
 <hr>
 
