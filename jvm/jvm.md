@@ -4,8 +4,9 @@ When we talk about JVM, it could be:
 - a concrete implemetation;
 - a runtime instance;
 
-JVM specification is flexible and defines certain features every JVM must have such as ability to execute Java bytecodes; 
-- can have different implementations:
+JVM specification is flexible and defines certain features every JVM must have such as ability to execute Java bytecodes.
+
+JVM can have different implementations:
   - completely in software;
   - to varying degrees in hardware. 
 
@@ -22,3 +23,7 @@ The bytecodes are executed in *execution engine*:
 - the simplest kind of execution engine of JVM implemented in software is an **interpreter that interprets the bytecodes one at a time**;
 - another execution engine is **JIT** (*just-in-time compiler*) which is faster but requires more memory:
   - the bytecodes of a method are compiled to a native machine code the first time the method is invloked and the code is cached for re-use. 
+
+<hr>
+
+[Return](../../../)

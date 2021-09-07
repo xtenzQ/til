@@ -59,3 +59,7 @@ Also let's talk about POJO. I dig deep (not really) into the Google and found th
 **POJOs basically defines an entity!**
 
 [Read here](https://www.geeksforgeeks.org/pojo-vs-java-beans/#:~:text=POJO%20stands%20for%20Plain%20Old,re%2Dusability%20of%20a%20program.)
+
+<hr>
+
+[Return](../../../)

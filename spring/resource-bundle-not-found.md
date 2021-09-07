@@ -9,4 +9,8 @@ In your `*-servlet.xml` instead of using `ResourceBundleMessageSource` try `Relo
 <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
     <property name="basename" value="classpath:messages" />
 </bean>
+
+<hr>
+
+[Return](../../../)
 ```

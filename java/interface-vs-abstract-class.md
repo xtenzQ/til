@@ -14,3 +14,7 @@ Java 8:
 - Interfaces with default implementation could also be used like abstract classes for multiple [implementation] inheritance.
 
 [Answer by Nick Alexeev'19](https://softwareengineering.stackexchange.com/a/391459)
+
+<hr>
+
+[Return](../../../)

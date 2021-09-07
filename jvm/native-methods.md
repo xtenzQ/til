@@ -19,3 +19,7 @@ When a running program calls a native method, the JVM loads the `.dll` that cont
 
 ## Native method interface
 **JNI** or **Java Native Interface** enables native methods to work with any Java Platform implementation.
+
+<hr>
+
+[Return](../../../)

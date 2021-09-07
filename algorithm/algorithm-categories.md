@@ -14,3 +14,7 @@ Most simple algorithms can be divded into these categories:
 |**O(n^3)**|Cubic|3 variables equation solver|
 |**O(2^n)**|Exponential|Find all subsets|
 |**O(n!)**|Factorial|Find all permutations of a given set/string|
+
+<hr>
+
+[Return](../../../)

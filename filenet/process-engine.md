@@ -12,3 +12,7 @@
 - is a single process with multi-threaded architecture;
 - is not run in the content of J2EE application server;
 - stores all workflow information in database.
+
+<hr>
+
+[Return](../../../)
