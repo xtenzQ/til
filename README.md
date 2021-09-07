@@ -10,7 +10,7 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Algorithm](algorithm)
 - [Spring](spring)
 - [Java](java)
-  - [JVM](java/jvm)  
+- [JVM](jvm)  
 - [Java EE](java-ee)
 - [FileNet](filenet)
 
@@ -33,11 +33,16 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [Interface vs. Abstract Class](java/interface-vs-abstract-class.md)
 - [Java Architecture](java/architecture.md)
 
-### JVM
-- [JVM](java/jvm/jvm.md)
-
 ### Java EE
 - [Enterprise Java Beans](java-ee/ejb.md)
+
+### JVM
+- [JVM](jvm/jvm.md)
+- [Class Loader](jvm/class-loader.md)
+- [Is Java API Platform Independent?](jvm/is-java-api-platform-independent.md)
+- [JVM Byte Order](jvm/jvm-byte-order.md)
+- [Namespace](jvm/namespace.md)
+- [Native Methods](jvm/native-methods.md)
 
 ### FileNet
 - [P8 Architecture](filenet/p8-arch.md)
