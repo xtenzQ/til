@@ -1,8 +1,10 @@
 # JVM
+When we talk about JVM, it could be:
+- an abstract specification;
+- a concrete implemetation;
+- a runtime instance;
 
-**is an abstract computer**.
-- its flexibile specification defines certain features every JVM must have:
-  - should be able to execute Java bytecodes; 
+JVM specification is flexible and defines certain features every JVM must have such as ability to execute Java bytecodes; 
 - can have different implementations:
   - completely in software;
   - to varying degrees in hardware. 
