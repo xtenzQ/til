@@ -44,6 +44,8 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [JVM Byte Order](jvm/jvm-byte-order.md)
 - [Namespace](jvm/namespace.md)
 - [Native Methods](jvm/native-methods.md)
+- [Why Virtual?](jvm/why-virtual.md)
+- [JVM lifetime](jvm/jvm-lifetime.md)
 
 ### FileNet
 - [P8 Architecture](filenet/p8-arch.md)
