@@ -43,6 +43,7 @@ This repo is a collection of write-ups on things I learnt today. Most of them ar
 - [JVM lifetime](jvm/jvm-lifetime.md)
 - [JVM Sandbox](jvm/jvm-sandbox.md)
 - [Class Loader](jvm/class-loader.md)
+- [Data Types](jvm/data-types.md)
 - [Is Java API Platform Independent?](jvm/is-java-api-platform-independent.md)
 - [JVM Byte Order](jvm/jvm-byte-order.md)
 - [Namespace](jvm/namespace.md)
