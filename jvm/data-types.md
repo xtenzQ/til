@@ -2,7 +2,7 @@
 
 are defined by the JVM specification.
 - Primitive types
-  - float/double/byte/short/int/long/char/*returnValue*
+  - `float`/`double`/`byte`/`short`/`int`/`long`/`char`/*returnValue*
 - Reference types
   - class types
   - interface types
@@ -17,6 +17,11 @@ e.g.:
 - array of `boolean` are accessed as arrays of `byte`.
 
 `returnValue` type is used to implement `finally` clauses.
+
+The basic unit of size for data values is the `word` - a fiexd size chosen by the designer of each JVM implemetation:
+- it should be large enough to hold a value of type `byte`, `short`, `int`, `char`, `float`, `returnValue`, or `reference`;
+- two `word`s must be large enough to hold a value of type `long` or `double`;
+- `word` should be at least 32 bits.
 
 <hr>
 
