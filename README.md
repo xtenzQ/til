@@ -1,8 +1,8 @@
-# Today I learnt
+# Learning Java In Depth
 
 Repo inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 
-This repo is a collection of write-ups on things I learnt today. Most of them are really basic stuff but I just want to keep track of everything.
+This repo is a collection of write-ups on Java-related things. Most of them are really basic stuff but I just want to keep track of everything.
 
 <hr>
 
